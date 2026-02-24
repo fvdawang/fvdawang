@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a UM student
+Hello, I'm under the water
 
 
 # 💻 Tech Stack:
